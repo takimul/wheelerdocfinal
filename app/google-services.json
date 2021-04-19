@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722046524505",
+    "project_id": "wheelerdocfinal",
+    "storage_bucket": "wheelerdocfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722046524505:android:051b9e94b3bfe50b6ee548",
+        "android_client_info": {
+          "package_name": "com.example.wheelerdocfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722046524505-5uerq9f37d9r693v76iuccs3ctsnqkgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYdr7abcu0Wg6EVnrsqFgF7Lacjy9W0m4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722046524505-5uerq9f37d9r693v76iuccs3ctsnqkgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
